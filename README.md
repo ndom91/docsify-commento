@@ -14,7 +14,7 @@ Once a domain has been added, they will give you the **universal snippet** which
 
 Then copy the URL to your `commento.js` from the instance and add it to our `commento.js` file from this repository. 
 
-Finally, simply include the `commento.js` in your `index.html`.
+Finally, simply include our `commento.js` from this repo in your `index.html` like all other docsify plugins.
 
 ```html
 <script src="dist/js/commento.js"></script>
