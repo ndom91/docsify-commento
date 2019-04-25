@@ -1,4 +1,4 @@
-docsify.plugins = [].concat(function(t) {
+$docsify.plugins = [].concat(function(t) {
     var a = Docsify.dom;
     t.mounted(function(t) {
         var n = a.create("div");
