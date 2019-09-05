@@ -26,4 +26,6 @@ Turns into this:
 <script src="dist/js/commento.js"></script>
 ```
 
-[MIT](https://opensource.org/licenses/MIT)
+---
+
+📝 Licence: [`MIT`](https://opensource.org/licenses/MIT)
